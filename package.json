@@ -1,0 +1,16 @@
+{
+  "name": "web-linker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "firebase-admin": "^14.0.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1",
+    "ws": "^8.21.0"
+  }
+}
